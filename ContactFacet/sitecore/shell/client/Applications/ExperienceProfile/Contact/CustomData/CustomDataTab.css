@@ -1,0 +1,12 @@
+﻿div[data-sc-id=CustomDataExpander] {
+  margin-top: 30px;
+}
+
+div[data-sc-id=CustomDataExpander] .sc-advancedExpander-body {
+    padding:10px;
+}
+
+div[data-sc-id=CustomDataExpander] .sc-border {
+    margin-top:10px;
+    margin-bottom:10px;
+}
